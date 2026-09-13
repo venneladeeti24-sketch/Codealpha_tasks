@@ -1,6 +1,6 @@
 # CodeAlpha Machine Learning Internship - All Tasks
 
-This repository contains all 3 tasks completed as part of CodeAlpha ML Internship.
+This repository contains all 3 tasks completed as part of CodeAlpha DS Internship.
 
 ## 📁 Task 1: Iris Flower Classification
 - File: `iris_classification.py`
