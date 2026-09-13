@@ -24,7 +24,7 @@ This repository contains all 3 tasks completed as part of CodeAlpha DS Internshi
 - Libraries: Scikit-learn, Pandas
 
 ## 👩‍💻 Author
-Deeti Vennela - CodeAlpha ML Intern
+Deeti Vennela - CodeAlpha DS Intern
 
 ## 🔗 Internship
 #CodeAlpha #DataScience #Python
