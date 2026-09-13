@@ -27,4 +27,4 @@ This repository contains all 3 tasks completed as part of CodeAlpha ML Internshi
 Deeti Vennela - CodeAlpha ML Intern
 
 ## 🔗 Internship
-#CodeAlpha #MachineLearning #Python
+#CodeAlpha #DataScience #Python
